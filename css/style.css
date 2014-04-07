@@ -386,7 +386,7 @@ Main types
 Accordion
 ******************/
 div.oneline {
-   	height: 30px;
+   	height: 28px;
     width: auto;
 	color: #FFFFFF;
 	overflow: hidden;
@@ -397,7 +397,7 @@ div.oneline {
 	padding-right: 3px;
 }
 div.twoline {
-   height: 60px;
+   height: 55px;
     width: auto;
 	color: #FFFFFF;
 	overflow: hidden;

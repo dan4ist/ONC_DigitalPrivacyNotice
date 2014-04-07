@@ -74,7 +74,7 @@ jQuery(document).ready(function ($) {
     	}, 300);
 	},function() {
 	    $(this).animate({
-	        height: '30px',
+	        height: '28px',
 	        backgroundColor: 'rgba(0, 0, 0, 0.75)'
     	}, 300);
 	});
@@ -86,7 +86,7 @@ jQuery(document).ready(function ($) {
     	}, 300);
 	},function() {
 	    $(this).animate({
-	        height: '60px',
+	        height: '55px',
 	        backgroundColor: 'rgba(0, 0, 0, 0.75)'
     	}, 300);
 	});
